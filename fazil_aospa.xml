@@ -44,7 +44,7 @@
   <project path="vendor/aospa" name="fazilsheik96/android_vendor_aospa" remote="my-topaz" revision="qpr3" />
   <project path="vendor/aospa/prebuilt" name="android_vendor_aospa_prebuilt" remote="my-gitlab" revision="topaz" />
   <project path="vendor/google/pixel" name="fazilsheik96/android_vendor_google_pixel" remote="my-topaz" revision="qpr3" clone-depth="1" />
-  <project path="vendor/google/gms" name="android-vendor-gms-statix" remote="my-gitlab" revision="tm-qpr3" clone-depth="1" />
+  <project path="vendor/google/gms" name="android_vendor_gms_statix" remote="my-gitlab" revision="tm-qpr3" clone-depth="1" />
   <project path="vendor/oneplus" name="fazilsheik96/proprietary_vendor_oneplus" remote="my-topaz" revision="topaz" clone-depth="1" />
   <project path="vendor/aospa/apps/ParanoidThemePicker" name="fazilsheik96/vendor_aospa_apps_ParanoidThemePicker" remote="my-topaz" revision="topaz" />
 
